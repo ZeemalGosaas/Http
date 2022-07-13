@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "zeemal",
+        "username": "zee",
+        "email": "zeemal@gmail.com",
+        "address": {
+            "street": "16",
+            "city": "lahore",
+            "area": "DHA"
+        },
+        "phone": "08497508503",
+        "website": "nckhcnlecn",
+        "company": {
+            "name" : "GOSAAS LABS",
+            "location": "DHA phase 5 sector D"
+        }
+    },
+
+    {
+        "id": 2,
+        "name": "uzair",
+        "username": "uzee",
+        "email": "uzair@gmail.com",
+        "address": {
+            "street": "15",
+            "city": "lahore",
+            "area": "DHA"
+        },
+        "phone": "478364924",
+        "website": "uzair.here1",
+        "company": {
+            "name" : "Devsinc ",
+            "location": "DHA phase 5 sector B"
+        }
+    },
+
+    {
+        "id": 3,
+        "name": "wisha",
+        "username": "wish",
+        "email": "wisha@gmail.com",
+        "address": {
+            "street": "14",
+            "city": "lahore",
+            "area": "DHA"
+        },
+        "phone": "7274274",
+        "website": "wisha.khursheed",
+        "company": {
+            "name" : "xgrid ",
+            "location": "DHA phase 3 sector B"
+        }
+    }
+    
+    
+
+]
